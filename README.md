@@ -6,7 +6,7 @@
 ### Data Analyst | AI Automation Expert | Content Creator
 
 <details>
-<summary> 🚀 Building Data Projects & Automations </summary>
+<summary> Turning raw data into powerful insights </summary>
 <p align="center">
   📊 Data Analysis | 🤖 AI Automation | 🎥 Content Creation
 </p>
@@ -21,7 +21,7 @@
 
 <hr>
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 - 📊 **Data Analyst** skilled in data cleaning, advanced transformation, and storytelling through visualization.
 - 🤖 **AI Automation Specialist** focused on building workflows that save time and maximize productivity.
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Tools & Technologies
+##  Tools & Technologies
 
 ### 📊 Data Analysis & Visualization
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -78,7 +78,7 @@ class MostafaElSheikh:
         }
 
     def mantra(self):
-        print("Turning complex data into simple decisions. 🚀")
+        print("Turning complex data into simple decisions. ")
 
 me = MostafaElSheikh()
 me.mantra()
