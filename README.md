@@ -1,79 +1,84 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%"/> <br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
 
+# 👋 Hi, I'm Mostafa El-Sheikh
+### Data Analyst | AI Automation Expert | Content Creator
+
 <details>
-<p><strong> <summary>  🚀 Building Data Projects & Automations   </summary> </strong></p>
-
-📊 Data Analysis | 🤖 AI Automation | 🎥 Content Creation  
-
+<summary> 🚀 Building Data Projects & Automations </summary>
+<p align="center">
+  📊 Data Analysis | 🤖 AI Automation | 🎥 Content Creation
+</p>
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube)](YOUR_CHANNEL_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN)
+![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+[![YouTube](https://img.shields.io/badge/YouTube-Darsh--o4g-red?style=flat&logo=youtube)](https://www.youtube.com/@Darsh-o4g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa--ElSheikh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mostafa-elsheikh-039a93228/)
+[![Instagram](https://img.shields.io/badge/Instagram-@darsho4g-E4405F?style=flat&logo=instagram)](https://www.instagram.com/darsho4g/)
 
 </div>
 
 <hr>
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-- 📊 Data Analyst skilled in data cleaning, transformation & visualization  
-- 🤖 متخصص في بناء أنظمة **AI Automation** لتوفير الوقت وزيادة الإنتاجية  
-- 🎥 صانع محتوى على اليوتيوب في مجال Excel و Power BI و Data Analysis  
-- 💡 بحول البيانات إلى قرارات واضحة  
+- 📊 **Data Analyst** skilled in data cleaning, advanced transformation, and storytelling through visualization.
+- 🤖 **AI Automation Specialist** focused on building workflows that save time and maximize productivity.
+- 🎥 **Content Creator** sharing technical knowledge in Excel, Power BI, and Data Analytics on YouTube.
+- 💡 **Decision Maker:** I bridge the gap between raw data and clear, actionable business decisions.
 
 ---
 
 ## 🧠 Tools & Technologies
 
+### 📊 Data Analysis & Visualization
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+
+### 🤖 Automation & Development
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
 ---
 
-## 📊 What I Do
+## 🛠 What I Do
 
-✔ Data Cleaning & Preparation  
-✔ Data Analysis & Insights  
-✔ Dashboard Creation (Excel & Power BI)  
-✔ AI Automation Workflows  
-✔ Business Reporting  
-
----
-
-## 🎥 Content Creator
-
-- Excel Tips & Tricks  
-- Data Analysis  
-- AI Tools & Automation  
-
-📺 **YouTube Channel:** (add your link)
+* **Data Preparation:** Cleaning and structuring messy data for analysis.
+* **Insights Extraction:** Finding patterns that drive business growth.
+* **Interactive Dashboards:** Building automated reports in Power BI and Excel.
+* **AI Workflows:** Designing autonomous agents and n8n automation pipelines.
+* **Educational Content:** Simplifying complex data concepts for my audience.
 
 ---
 
-## 💻 My Stack (Code Style 😎)
+## 💻 My Digital Identity (Python Style)
 
 ```python
 class MostafaElSheikh:
-
     def __init__(self):
-        self.role = ["Data Analyst", "AI Automation", "Content Creator"]
+        self.username = "Darsh-o4g"
+        self.roles = ["Data Analyst", "AI Automation Expert", "Content Creator"]
+        self.language = "English & Arabic"
 
-    def skills(self):
+    def current_focus(self):
+        return "Building AI-driven solutions for E-commerce"
+
+    def core_skills(self):
         return {
-            "Data": ["Excel", "Power BI", "SQL"],
-            "Programming": ["Python"],
-            "Automation": ["n8n", "APIs"],
+            "Analysis": ["Excel", "Power BI", "SQL", "Pandas"],
+            "Automation": ["n8n", "Python Automation", "AI Agents"],
+            "Creative": ["Video Editing", "Content Strategy"]
         }
 
-    def goal(self):
-        return "Turn data into decisions 🚀"
+    def mantra(self):
+        print("Turning complex data into simple decisions. 🚀")
+
+me = MostafaElSheikh()
+me.mantra()
